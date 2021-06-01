@@ -14,7 +14,7 @@ Cookies:<br>
 1.Nume student: <b><span id="nameCookie"></span></b><br>
 2.Detectare browser: <b><span id="browserCookie"></span></b><br>
 3.Detectare sistem de operare: <b><span id="soCookie"></span></b><br>
-4.Detectare timezone: <b><span id="timezoneCookie"></span></b><br>
+4.Detectare : <b><span id="timezoneCookie"></span></b><br>
 <hr>
 <div class="Nota de informare" style="text-align:center;padding:0 50px 50px 50px">
 <button id="titluInfo" class="btn btn-outline-secondary custom" onclick="displayInfo()">NOTĂ DE INFORMARE PRIVIND PROTECŢIA DATELOR PERSONALE +</button>
@@ -78,31 +78,7 @@ consimțământul oferit de participant va fi utilizat întocmai pentru scopul d
 		document.cookie = "browser=iexplorer";
 		document.getElementById('browserCookie').innerHTML="iexplorer";
 	}
-	var OSName = "Unknown";
-	if (window.navigator.userAgent.indexOf("Windows NT 10.0")!= -1) OSName="Windows 10";
-	if (window.navigator.userAgent.indexOf("Windows NT 6.3") != -1) OSName="Windows 8.1";
-	if (window.navigator.userAgent.indexOf("Windows NT 6.2") != -1) OSName="Windows 8";
-	if (window.navigator.userAgent.indexOf("Windows NT 6.1") != -1) OSName="Windows 7";
-	if (window.navigator.userAgent.indexOf("Windows NT 6.0") != -1) OSName="Windows Vista";
-	if (window.navigator.userAgent.indexOf("Windows NT 5.1") != -1) OSName="Windows XP";
-	if (window.navigator.userAgent.indexOf("Windows NT 5.0") != -1) OSName="Windows 2000";
-	if (window.navigator.userAgent.indexOf("Mac")            != -1) OSName="Mac/iOS";
-	if (window.navigator.userAgent.indexOf("X11")            != -1) OSName="UNIX";
-	if (window.navigator.userAgent.indexOf("Linux")          != -1) OSName="Linux";
-	document.cookie = "operating-system="+OSName;
-	document.getElementById('soCookie').innerHTML=OSName;
-	let timezone = null;
-	timezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
-	if(timezone){
-	document.cookie = "timezone="+timezone;
-	}
-	document.getElementById('timezoneCookie').innerHTML=timezone;
-	function setNameCookie(){
-		let element = document.getElementById('nameInput');
-		document.cookie = "numeStudent="+element.value;
-		let btn1 = document.getElementById('addNameBtn');
-		btn1.style="display:none";
-		document.getElementById('nameCookie').innerHTML=element.value;
+	
 	}
 	if(document.cookie){
 	let numeStudent =null;
