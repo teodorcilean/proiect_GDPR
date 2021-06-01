@@ -5,7 +5,7 @@
 
 <div class="row">
 	<div class="col-sm-3">  
-		<input id="nameInput" type="text" class="form-control " placeholder="Numele dvs. complet" aria-label="Recipient's username" aria-describedby="basic-addon2">
+		<input id="nameInput" type="text" class="form-control " placeholder="Nume complet" aria-label="Recipient's username" aria-describedby="basic-addon2">
 	</div>
 	<div class="col-sm-3">
 		<button class="btn btn-success custom" type="button" id="addNameBtn" onclick="setNameCookie()">Salveaza</button>
@@ -18,8 +18,8 @@ Cookies:<br>
 2.Detectare browser: <b><span id="browserCookie"></span></b><br>
 3.Detectare sistem de operare: <b><span id="soCookie"></span></b><br>
 <hr>
-<div class="Nota de informare" style="text-align:center;padding:0 50px 50px 50px">
-<button id="titluInfo" class="btn btn-outline-secondary custom" onclick="displayInfo()">NOTĂ DE INFORMARE PRIVIND PROTECŢIA DATELOR PERSONALE +</button>
+<div class="Nota  informare" ">
+<button id="titluInfo" class="btn btn-outline-secondary custom" onclick="displayInfo()">NOTĂ DE INFORMARE PRIVIND PROTECŢIA DATELOR PERSONALE </button>
 
 <div id="textInfo" style="display:none;"><br><br><br>
 Conform cerinţelor Legii nr. 677/2001 pentru protecţia persoanelor cu privire la prelucrarea datelor cu caracter personal şi libera circulaţie a acestor date, modificată şi completată şi ale Legii nr. 506/2004 privind prelucrarea datelor cu caracter personal şi protecţia vieţii private în sectorul comunicaţiilor
@@ -53,7 +53,7 @@ Dacă unele din datele despre dumneavoastră sunt incorecte, vă rugăm să ne i
 <hr>
 <br><br>
 <a target="blank" href=>
-	<button class="btn btn-warning">Analiza DPIA</button>
+	<button class="but_warning">Analiza DPIA</button>
 </a>
 </div>
 </div>
@@ -152,13 +152,13 @@ Dacă unele din datele despre dumneavoastră sunt incorecte, vă rugăm să ne i
 	function displayInfo(){
 		if(!expandedInfo){
 			document.getElementById('textInfo').style="display:block";
-			document.getElementById('titluInfo').innerHTML="NOTĂ DE INFORMARE PRIVIND PROTECŢIA DATELOR PERSONALE -";
+			
 			expandedInfo=true;
 		} else {
 			document.getElementById('textInfo').style="display:none";
-			document.getElementById('titluInfo').innerHTML="NOTĂ DE INFORMARE PRIVIND PROTECŢIA DATELOR PERSONALE +";
+			
 			expandedInfo=false;
 		}
 	}
 </script>
-</html>
+
