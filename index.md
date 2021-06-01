@@ -76,7 +76,7 @@ Dacă unele din datele despre dumneavoastră sunt incorecte, vă rugăm să ne i
 </div>
 <hr>
 <br><br>
-<a target="blank" href="https://didatec-my.sharepoint.com/:w:/r/personal/mindru_da_andrei_utcluj_didatec_ro/Documents/DPIA.docx?d=w22b0820630f64f35b80a2ade69b3a446&csf=1&web=1&e=9A0Tnk">
+<a target="blank" href=>
 	<button class="btn btn-warning">Analiza DPIA</button>
 </a>
 </div>
