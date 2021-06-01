@@ -12,6 +12,5 @@ document.cookie = "session= test GDPR";
  
  
  <body>
- Bine ai venit la lab Show cookies
-<button onclick="alertCookie()">Show cookies</button>
+
 </body>
