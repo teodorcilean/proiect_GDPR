@@ -14,7 +14,6 @@ Cookies:<br>
 1.Nume student: <b><span id="nameCookie"></span></b><br>
 2.Detectare browser: <b><span id="browserCookie"></span></b><br>
 3.Detectare sistem de operare: <b><span id="soCookie"></span></b><br>
-4.Detectare : <b><span id="timezoneCookie"></span></b><br>
 <hr>
 <div class="Nota de informare" style="text-align:center;padding:0 50px 50px 50px">
 <button id="titluInfo" class="btn btn-outline-secondary custom" onclick="displayInfo()">NOTĂ DE INFORMARE PRIVIND PROTECŢIA DATELOR PERSONALE +</button>
