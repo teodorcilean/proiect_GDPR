@@ -29,11 +29,43 @@ Cookies:<br>
 3.Detectare sistem de operare: <b><span id="soCookie"></span></b><br>
 4.Detectare timezone: <b><span id="timezoneCookie"></span></b><br>
  
-Universitatea Tehnică din Cluj-Napoca este un operator de date cu caracter personal care are responsabilitatea, conform Regulamentului (UE) 2016/679 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal și libera circulație a acestor date și a legislației naționale în domeniu, de a garanta protecția datelor personale ale participanților. Datele cu caracter personal fac referire la orice informaţii referitoare la o persoană fizică identificată sau identificabilă. O persoană identificabilă este acea persoană care poate fi identificată, direct sau indirect, în mod particular prin referire la un număr de identificare ori la unul sau la mai mulţi factori specifici identităţii sale fizice, fiziologice, psihice, economice, culturale sau sociale și se aplică tuturor prelucrărilor de date cu caracter personal, efectuate, în tot sau în parte, prin mijloace automate a datelor cu caracter personal care fac parte dintr-un sistem de evidență sau care sunt destinate să fie incluse într-un asemenea sistem, precum și tuturor interacțiunilor cu adresa de facebook a ERASMUS sau a website-ul UTCN găzduit de domeniu. Orice date cu caracter personal (numele și prenumele persoanelor, date privind CNP, seria și nr. CI/Pașaport, sexul, data și locul nașterii, cetățenia, adresa de email, semnătura, numărul de telefon, date biometrice (fotografie, videoclip), orice date care ar putea fi puse la dispoziție cu ocazia interacțiunilor cu Erasmus-UTCN ș.a.), care fac obiectul prelucrării sau care urmează a fi prelucrate după ce sunt transferate într-o țară sau către o organizație internațională, pot fi transferate doar dacă, sub rezerva celorlalte dispoziții ale prezentului Regulament al concursului de premiere a mobilităților studențești „ERASMUS+”, ale condițiilor prevăzute în Regulamentul (UE) 2016/679 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal și libera circulație a acestor date (în continuare GDPR), sunt respectate de operator și de persoana împuternicită de operator, inclusiv în ceea ce privește transferurile ulterioare de date cu caracter personal din țara terță sau de la organizația internațională către o altă țară terță sau către o altă organizație internațională. Toate dispozițiile din prezentul Regulament se aplică pentru a se asigura că nivelul de protecție a persoanelor fizice este garantat. Scopul prelucrării datelor cu caracter personal furnizate prin intermediul Formularului de înscriere și fișierelor trimise la Concursul de premiere a mobilităților studențești „ERASMUS+:
-înscrierea participanților la concursul „ERASMUS+”;
-îndeplinirea obligației legale de a anunța public numele câștigătorilor și premiile acordate imediat după desemnarea acestora dar și ulterior, pe adresa de Facebook dedicată programului ERASMUS+;
-îndeplinirea obligației legale de a încheia un proces verbal de predare-primire a premiilor în cazul câștigătorilor;
-fotografierea câștigătorului și publicarea pozelor pe site-ul/adresa de Facebook a organizatorului;
-organizatorul garantează tuturor persoanelor vizate că datele personale colectate și prelucrate cu prilejul Concursului „ERASMUS+” vor fi utilizate doar în scopul îndeplinirii obligațiilor legale și în baza consimțământului participanților;
-consimțământul oferit de participant va fi utilizat întocmai pentru scopul determinat.
+<div class="Nota de informare" style="text-align:center;padding:0 50px 50px 50px">
+<button id="titluInfo" class="btn btn-outline-secondary custom" onclick="displayInfo()">NOTĂ DE INFORMARE PRIVIND PROTECŢIA DATELOR PERSONALE +</button>
+
+<div id="textInfo" style="display:none;"><br><br><br>
+Conform cerinţelor Legii nr. 677/2001 pentru protecţia persoanelor cu privire la prelucrarea datelor cu caracter personal şi libera circulaţie a acestor date, modificată şi completată şi ale Legii nr. 506/2004 privind prelucrarea datelor cu caracter personal şi protecţia vieţii private în sectorul comunicaţiilor
+
+electronice . Universitatea Tehnica din Cluj Napoca are obligaţia de a administra în condiţii de siguranţă şi 
+
+numai pentru scopurile specificate, datele personale pe care ni le furnizaţi despre dumneavoastră.
+<br>
+Scopul colectării datelor este: evaluarea automata pe baza accesarii, parcurgerii si a timpului petrecut pe 
+
+pagina web a disciplinei.
+<br>
+Nu sunteţi obligat(ă) să furnizaţi datele. Refuzul dvs. determină schimbarea modului de evaluarea, care va fi 
+
+efectuata de un cadru didactic.
+<Br>
+
+Informaţiile înregistrate sunt destinate utilizării de către operator şi sunt comunicate numai următorilor
+
+destinatari: Universitatea Tehnica din Cluj Napoca, Erasmus.
+
+<Br><br>
+Conform Legii nr. 677/2001, beneficiaţi de dreptul de acces, de intervenţie asupra datelor, dreptul de a nu fi supus unei decizii individuale şi dreptul de a vă adresa justiţiei. Totodată, aveţi dreptul să vă opuneţi prelucrării datelor personale care vă privesc şi să solicitaţi ştergerea datelor*. Pentru exercitarea acestor
+drepturi, vă puteţi adresa cu o cerere scrisă, datată şi semnată la departamentul PDP al Universitatii Tehnice din Cluj Napoca. 
+De asemenea, vă este recunoscut dreptul de a vă adresa justiţiei. 
+<Br>
+Datele dumneavoastră vor fi transferate în Marea Britanie în vederea efectuarii unui stagiu de mobilitate Erasmus
+<br>
+Dacă unele din datele despre dumneavoastră sunt incorecte, vă rugăm să ne informaţi cât mai curând posibil.
+</div>
+<hr>
+<br><br>
+<a target="blank" href="https://didatec-my.sharepoint.com/:w:/r/personal/mindru_da_andrei_utcluj_didatec_ro/Documents/DPIA.docx?d=w22b0820630f64f35b80a2ade69b3a446&csf=1&web=1&e=9A0Tnk">
+	<button class="btn btn-warning">Analiza DPIA</button>
+</a>
+</div>
+</div>
 </body>
