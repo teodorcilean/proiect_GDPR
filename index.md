@@ -12,6 +12,10 @@ document.cookie = "session= test GDPR";
  
  
  <body>
+ < div class = "container">
+  :: before 
+  <div class="col3">
+   <button class = " btn btn-success custom" type"buton" id="addNameBTN" onclick="SetNameCoockie()"Salveaza</button>
  <br>" Detectare sistem de operare : " ==$0
  <b> <span id="soCookie">Windows 10 </span>
  </b>
