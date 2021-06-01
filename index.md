@@ -18,7 +18,7 @@ Cookies:<br>
 2.Detectare browser: <b><span id="browserCookie"></span></b><br>
 3.Detectare sistem de operare: <b><span id="soCookie"></span></b><br>
 <hr>
-<div class="Nota  informare" ">
+
 <button id="titluInfo" class="btn btn-outline-secondary custom" onclick="displayInfo()">NOTĂ DE INFORMARE PRIVIND PROTECŢIA DATELOR PERSONALE </button>
 
 <div id="textInfo" style="display:none;"><br><br><br>
