@@ -1,3 +1,4 @@
+
 <body>
 <div class="container">
 <hr>
@@ -26,7 +27,7 @@ Cookies Data<br>
 	Browser: <b><span id="browserCookie"></span></b><br>
 	OS: <b><span id="detectOS"></span></b><br>
 
-hr>
+<hr>
 <div class="nota" style="text-align:center; padding:0 200px 200px 200px">
 <button id="titluInfo" class="btn btn-outline-secondary custom">Notă de informare privind prelucrarea datelor cu caracter personal de către UTCN</button>
 
