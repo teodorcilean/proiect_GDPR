@@ -1,31 +1,8 @@
 
-<!DOCTYPE html>
-<html>
-<head>
-<!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-<style>
-.btn:not(.custom) {
-	width:250px;;
-}
-.input-group-append, inputCstm {
-	display:inline-block;
-}
-body {
-	background:url('background.png');
-	background-size:cover;
-}
-.container {
-	margin-top:100px;
-	background-color:white;
-}
-</style>
-</head>
+
 <body>
 <div class="container">
-<hr>
-STUDENT: Mindru Andrei
-<hr>
+
 <div class="row">
 	<div class="col-sm-3">  
 		<input id="nameInput" type="text" class="form-control " placeholder="Numele dvs. complet" aria-label="Recipient's username" aria-describedby="basic-addon2">
@@ -40,7 +17,6 @@ Cookies:<br>
 1.Nume student: <b><span id="nameCookie"></span></b><br>
 2.Detectare browser: <b><span id="browserCookie"></span></b><br>
 3.Detectare sistem de operare: <b><span id="soCookie"></span></b><br>
-4.Detectare timezone: <b><span id="timezoneCookie"></span></b><br>
 <hr>
 <div class="Nota de informare" style="text-align:center;padding:0 50px 50px 50px">
 <button id="titluInfo" class="btn btn-outline-secondary custom" onclick="displayInfo()">NOTĂ DE INFORMARE PRIVIND PROTECŢIA DATELOR PERSONALE +</button>
@@ -143,12 +119,8 @@ Dacă unele din datele despre dumneavoastră sunt incorecte, vă rugăm să ne i
 	if (window.navigator.userAgent.indexOf("Linux")          != -1) OSName="Linux";
 	document.cookie = "operating-system="+OSName;
 	document.getElementById('soCookie').innerHTML=OSName;
-	let timezone = null;
-	timezone = Intl.DateTimeFormat().resolvedOptions().timeZone;
-	if(timezone){
-	document.cookie = "timezone="+timezone;
-	}
-	document.getElementById('timezoneCookie').innerHTML=timezone;
+
+	
 	function setNameCookie(){
 		let element = document.getElementById('nameInput');
 		document.cookie = "numeStudent="+element.value;
