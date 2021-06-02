@@ -4,10 +4,10 @@
 <div class="container">
 
 <div class="row">
-	<div class="col-sm-3">  
+	<div class="col3">  
 		<input id="nameInput" type="text" class="form-control " placeholder="Nume complet" aria-label="Recipient's username" aria-describedby="basic-addon2">
 	</div>
-	<div class="col-sm-3">
+	<div class="col3">
 		<button class="btn btn-success custom" type="button" id="addNameBtn" onclick="setNameCookie()">Salveaza</button>
 		<button style="display:none;" class="btn btn-primary custom" type="button" id="editNameBtn" onclick="setNameCookie()">Actualizeaza</button>
 	</div>
@@ -53,7 +53,7 @@ Dacă unele din datele despre dumneavoastră sunt incorecte, vă rugăm să ne i
 <hr>
 <br><br>
 <a target="blank" href=>
-	<button class="but_warning">Analiza DPIA</button>
+	<button class="warning">Analiza DPIA</button>
 </a>
 </div>
 </div>
