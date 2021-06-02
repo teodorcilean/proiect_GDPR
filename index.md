@@ -24,33 +24,18 @@ Cookies:<br>
 <div id="textInfo" style="display:none;">
 <p align="left"><br><br><br>
 	<strong>
-Conform cerinţelor Legii nr. 677/2001 pentru protecţia persoanelor cu privire la prelucrarea datelor cu caracter personal şi libera circulaţie a acestor date, modificată şi completată şi ale Legii nr. 506/2004 privind prelucrarea datelor cu caracter personal şi protecţia vieţii private în sectorul comunicaţiilor
+Masterul de eActiviati din cadrul Universitatii Tehnice din Cluj-Napoca prelucreaza in conformitate cu  Regulamentul General al Uniunii Europene nr. 679/2016, privind protectia persoanleor fizice in ceea ce priveste prelucrarea  datele cu caracter personal furnizate.
 
-electronice . Universitatea Tehnica din Cluj Napoca are obligaţia de a administra în condiţii de siguranţă şi 
+Vă notificăm faptul că datorită temeiului legal aplicabil în România și a relației contractuale în care vă aflați cu Universitatea Tehnică din Cluj-Napoca, Masterul de eActivitati si stagiul de mobilitate Erasmus in UK, procesează pe perioada relațiilor contractuale următoarele categorii de informații personale care vă aparțin pe care le deține la nivelul departamentelor și serviciilor: date de identificare conform actelor personale emise de autoritățile statului român (certificat de naștere, carte de identitate, pașaport unde e cazul, etc.); date financiare (număr de cont, venituri realizate la nivelul instituției, situații financiare personale, etc.); caracteristici personale (vârsta, locul nașterii, naționalitate, stare civilă, etc. necesare pentru stabilirea de drepturi cuvenite); opinii privind starea de sănătate (în baza certificatelor și adeverințelor medicale și de evaluare a stării de sănătate stipulate în normativele aplicabile); componența familiei (numărul de copii și date de identificare a acestora, stare civilă, etc. in baza cărora se fac justificările de calcul a unor drepturi cuvenite sau se stabilesc alte drepturi conform legilor și normativelor aplicabile pentru cei care optează sau solicită aceste drepturi); informații privind parcursul academic, calificările deținute, istoricul profesional, calitatea de membru in organizații profesionale, publicații, date de contact necesare pentru derularea curentă a activității educaționale și de cercetare specifice universității.
+Aceste date prelucrate prin intermediul formularului de inscriere la concursul  de premiere a mobilitatii studentesti Erasmus sunt folosite doar pentru selectia, si premierea participantilor.
 
-numai pentru scopurile specificate, datele personale pe care ni le furnizaţi despre dumneavoastră.
-<br>
-Scopul colectării datelor este: evaluarea automata pe baza accesarii, parcurgerii si a timpului petrecut pe 
-
-pagina web a disciplinei.
-<br>
-Nu sunteţi obligat(ă) să furnizaţi datele. Refuzul dvs. determină schimbarea modului de evaluarea, care va fi 
-
-efectuata de un cadru didactic.
-<Br>
-
-Informaţiile înregistrate sunt destinate utilizării de către operator şi sunt comunicate numai următorilor
-
-destinatari: Universitatea Tehnica din Cluj Napoca, Erasmus.
-
-<Br><br>
-Conform Legii nr. 677/2001, beneficiaţi de dreptul de acces, de intervenţie asupra datelor, dreptul de a nu fi supus unei decizii individuale şi dreptul de a vă adresa justiţiei. Totodată, aveţi dreptul să vă opuneţi prelucrării datelor personale care vă privesc şi să solicitaţi ştergerea datelor*. Pentru exercitarea acestor
-drepturi, vă puteţi adresa cu o cerere scrisă, datată şi semnată la departamentul PDP al Universitatii Tehnice din Cluj Napoca. 
-De asemenea, vă este recunoscut dreptul de a vă adresa justiţiei. 
-<Br>
+Menționăm ca reținerea datelor cu caracter personal în instituție are rolul de a putea furniza către titularul datelor, la cerere, informații privind perioada de școlarizare petrecută în cadrul instituției și după finalizarea acestei perioade de instruire și se supune suplimentar temeiului legal aplicabil în România furnizat de OM Nr. 657 / 24.11.2014 privind regimul actelor de studii în sistemul de învățământ superior cu completările ulterioare.
+Conform Legii nr. 677/2001, beneficiaţi de dreptul de acces, de intervenţie asupra datelor, dreptul de a nu fi supus unei decizii individuale şi dreptul de a vă adresa justiţiei. Totodată, aveţi dreptul să vă opuneţi prelucrării datelor personale care vă privesc şi să solicitaţi ştergerea datelor*. Pentru exercitarea acestor drepturi, vă puteţi adresa cu o cerere scrisă, datată şi semnată la departamentul PDP al Universitatii Tehnice din Cluj Napoca. De asemenea, vă este recunoscut dreptul de a vă adresa justiţiei.
 Datele dumneavoastră vor fi transferate în Marea Britanie în vederea efectuarii unui stagiu de mobilitate Erasmus
-<br>
 Dacă unele din datele despre dumneavoastră sunt incorecte, vă rugăm să ne informaţi cât mai curând posibil.
+La nivel național respectarea drepturilor persoanelor cu privire la datele cu caracter personal este monitorizată de Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal, www.dataprotection.ro.
+
+
 	</strong>
 	</p>
 </div>
