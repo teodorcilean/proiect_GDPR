@@ -23,6 +23,7 @@ Cookies:<br>
 
 <div id="textInfo" style="display:none;">
 <p align="left"><br><br><br>
+	<strong>
 Conform cerinţelor Legii nr. 677/2001 pentru protecţia persoanelor cu privire la prelucrarea datelor cu caracter personal şi libera circulaţie a acestor date, modificată şi completată şi ale Legii nr. 506/2004 privind prelucrarea datelor cu caracter personal şi protecţia vieţii private în sectorul comunicaţiilor
 
 electronice . Universitatea Tehnica din Cluj Napoca are obligaţia de a administra în condiţii de siguranţă şi 
@@ -50,6 +51,7 @@ De asemenea, vă este recunoscut dreptul de a vă adresa justiţiei.
 Datele dumneavoastră vor fi transferate în Marea Britanie în vederea efectuarii unui stagiu de mobilitate Erasmus
 <br>
 Dacă unele din datele despre dumneavoastră sunt incorecte, vă rugăm să ne informaţi cât mai curând posibil.
+	</strong>
 	</p>
 </div>
 <hr>
