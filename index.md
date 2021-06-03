@@ -45,7 +45,6 @@ La nivel național respectarea drepturilor persoanelor cu privire la datele cu c
 	<button class="warning">Analiza DPIA</button>
 </a>
 </div>
-</div>
 </body>
 
 <script> 
