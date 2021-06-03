@@ -5,7 +5,7 @@
 
 <div class="row">
 	<div class="col3">  
-		<input id="nameInput" type="text" class="form-control " placeholder="Nume complet" aria-label="Recipient's username" aria-describedby="basic-addon2">
+		<input id="nameInput" type="text" class="control " placeholder="Nume complet" aria-label="Recipient's username" aria-describedby="basic-addon">
 	</div>
 	<div class="col3">
 		<button class="btn btn-success custom" type="button" id="addNameBtn" onclick="setNameCookie()">Salveaza</button>
